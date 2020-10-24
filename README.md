@@ -1,2 +1,3 @@
 # Covid19--A-Booklet-
-Corona Virus – A Spasmo-demic (Non dictionary term) ! . Spasmodic + Epidemic – used here. Spasmodic w.r.t our environment. A critical Virological pathogen throughout the World is destroying the environmental sustainability increasing the Death rate every Day . The COVID19 is the latest model is one of the greatest headache to World Health Organisation ( WHO ) .
+Data analysis report for Growth of D614G Virus – Regression Analysis.
+JAYDIP DATTA. (2020). Data -SUPPLIMENDARY INFORMATIONS –Growth of D614G Virus – Regression Analysis (Version https://semver.org/spec/v1.0.0-beta.html) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4088751
